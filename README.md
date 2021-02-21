@@ -1,13 +1,7 @@
-# Project-Norn
+# Ela - x86_64向けツールチェインの開発
 
-![](https://img.shields.io/github/workflow/status/Project-Norn/eir/Rust?label=eir&style=for-the-badge)
+[![SecHack365](https://img.shields.io/badge/SecHack365-2020-ffd700.svg?style=for-the-badge)](https://sechack365.nict.go.jp/)
 
-![](https://img.shields.io/github/workflow/status/Project-Norn/herja/Rust?label=herja&style=for-the-badge)
+Elaはx86_64向けのツールチェインを0から**フルスクラッチ**で開発するプロジェクトです。実行可能ファイルの生成とその実行に利用される、コンパイラ・アセンブラ・リンカ・エミュレータを開発しました。また、これらのツールチェインに加えて、**独自のセキュリティ機構**を考案し実装を行いました。プロジェクトの成果物をGitHubに**OSS**として公開しているため、誰でも自由に利用できます。
 
-![](https://img.shields.io/github/workflow/status/Project-Norn/rota/Rust?label=rota&style=for-the-badge)
 
-![](https://img.shields.io/github/workflow/status/Project-Norn/sigrun/Rust?label=sigrun&style=for-the-badge)
-
-![](https://img.shields.io/github/workflow/status/Project-Norn/x86asm/Rust?label=x86asm&style=for-the-badge)
-
-![](https://img.shields.io/github/workflow/status/Project-Norn/elfen/Rust?label=elfen&style=for-the-badge)
